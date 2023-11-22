@@ -32,21 +32,3 @@ Rear middle extrusion is replaced with a full length extrusion. Motors are mount
 
 For the vertical 4 extrusions, the middle blind drills need to be on 2 sides instead of 1 like the top corner drills. You're making a box on the top AND in the middle now.
 * Cross: 4x HFSB5-2020-500-LCP-RCP-AP360
-
-
-# Work in progress
-https://github.com/kvc0/trident-cross/assets/3454741/668f7992-c159-4a67-8181-58e0e03374da
-
-A circle at 2 kilometers per hour (566mm/s) just to see it move.
-
-______
-
-![IMG_6264](https://github.com/kvc0/trident-cross/assets/3454741/10314d1e-948e-41bf-a26d-35e24c9d77ab)
-
-A very busy corner. It is easy to forget to loop the motor belt around the lower components while building.
-
-______
-
-![image](https://github.com/kvc0/trident-cross/assets/3454741/95f4516b-368e-47f2-8fc4-3243d6038bb1)
-
-Bed frame is attached and some basic lighting is worked out.
