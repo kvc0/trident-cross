@@ -41,3 +41,9 @@ ______
 ![IMG_6264](https://github.com/kvc0/trident-cross/assets/3454741/10314d1e-948e-41bf-a26d-35e24c9d77ab)
 
 A very busy corner. It is easy to forget to loop the motor belt around the lower components while building.
+
+______
+
+![image](https://github.com/kvc0/trident-cross/assets/3454741/95f4516b-368e-47f2-8fc4-3243d6038bb1)
+
+Bed frame is attached and some basic lighting is worked out.
